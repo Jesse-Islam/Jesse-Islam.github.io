@@ -25,7 +25,7 @@ main {
 /*home page*/
 
 .intro {
-    transform: translateY(10vh);
+    transform: translateY(20vh);
 }
 
 .intro > h1 {
