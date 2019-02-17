@@ -122,7 +122,34 @@
   
     
       <url>
+        <loc>https://jesseislam.com/readings/</loc>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://jesseislam.com/</loc>
+        <lastmod>2019-01-06T12:17:01+02:00</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://jesseislam.com/posts/</loc>
+        <lastmod>2019-01-06T12:17:01+02:00</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://jesseislam.com/projects/</loc>
+      </url>
+    
+  
+    
+      <url>
         <loc>https://jesseislam.com/categories/</loc>
+        <priority>0</priority>
       </url>
     
   
@@ -176,13 +203,6 @@
   
     
       <url>
-        <loc>https://jesseislam.com/</loc>
-        <lastmod>2019-01-06T12:17:01+02:00</lastmod>
-      </url>
-    
-  
-    
-      <url>
         <loc>https://jesseislam.com/tags/hugo/</loc>
         <lastmod>2014-04-02T00:00:00+00:00</lastmod>
         <priority>0</priority>
@@ -207,13 +227,6 @@
   
     
       <url>
-        <loc>https://jesseislam.com/posts/</loc>
-        <lastmod>2019-01-06T12:17:01+02:00</lastmod>
-      </url>
-    
-  
-    
-      <url>
         <loc>https://jesseislam.com/categories/lorem-ipsum/</loc>
         <lastmod>2016-11-11T10:15:01+02:00</lastmod>
         <priority>0</priority>
@@ -222,24 +235,6 @@
   
     
   
-    
-  
-    
-      <url>
-        <loc>https://jesseislam.com/photos/</loc>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://jesseislam.com/projects/</loc>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://jesseislam.com/readings/</loc>
-      </url>
     
   
     
