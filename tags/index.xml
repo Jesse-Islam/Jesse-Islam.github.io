@@ -1,14 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jesse Islam</title>
+    <title>Tags on Simplicity - Hugo theme</title>
     <link>https://jesseislam.com/tags/</link>
-    <description>Recent content in Tags on Jesse Islam</description>
+    <description>Recent content in Tags on Simplicity - Hugo theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jesseislam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://jesseislam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>Development</title>
+        <link>https://jesseislam.com/tags/development/</link>
+        <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+        <guid>https://jesseislam.com/tags/development/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Elements</title>
+        <link>https://jesseislam.com/tags/elements/</link>
+        <pubDate>Sun, 06 Jan 2019 12:17:01 +0200</pubDate>
+        <guid>https://jesseislam.com/tags/elements/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Go</title>
+        <link>https://jesseislam.com/tags/go/</link>
+        <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+        <guid>https://jesseislam.com/tags/go/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Golang</title>
+        <link>https://jesseislam.com/tags/golang/</link>
+        <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+        <guid>https://jesseislam.com/tags/golang/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Hugo</title>
+        <link>https://jesseislam.com/tags/hugo/</link>
+        <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+        <guid>https://jesseislam.com/tags/hugo/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Images</title>
+        <link>https://jesseislam.com/tags/images/</link>
+        <pubDate>Sat, 11 Mar 2017 10:15:01 +0200</pubDate>
+        <guid>https://jesseislam.com/tags/images/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Lightbox</title>
+        <link>https://jesseislam.com/tags/lightbox/</link>
+        <pubDate>Sat, 11 Mar 2017 10:15:01 +0200</pubDate>
+        <guid>https://jesseislam.com/tags/lightbox/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Templates</title>
+        <link>https://jesseislam.com/tags/templates/</link>
+        <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+        <guid>https://jesseislam.com/tags/templates/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Themes</title>
+        <link>https://jesseislam.com/tags/themes/</link>
+        <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+        <guid>https://jesseislam.com/tags/themes/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Typography</title>
+        <link>https://jesseislam.com/tags/typography/</link>
+        <pubDate>Sun, 06 Jan 2019 12:17:01 +0200</pubDate>
+        <guid>https://jesseislam.com/tags/typography/</guid>
+        <description></description>
+      </item>
     
   </channel>
 </rss>
