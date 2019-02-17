@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media Folder on Jesse Islam</title>
-    <link>https://jesseislam.com/media/</link>
+    <link>https://jesseislam.com/images/</link>
     <description>Recent content in Media Folder on Jesse Islam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
-      <atom:link href="https://jesseislam.com/media/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://jesseislam.com/images/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
